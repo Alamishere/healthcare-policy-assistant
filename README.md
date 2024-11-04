@@ -43,9 +43,7 @@ A Retrieval Augmented Generation (RAG) application built with AWS Bedrock, LangC
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Project dependencies
 ├── data/                  # Directory for PDF documents
-└── README.md              # Project documentation
-
-
+└── README.md              # Project documentation```
 
 
 
